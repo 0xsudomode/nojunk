@@ -1,4 +1,4 @@
-module github.com/0xsudomode/nojunk
+module nojunk
 
 go 1.23.4
 

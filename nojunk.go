@@ -145,7 +145,7 @@ func saveURLsToFile(urls []string, filePath string) {
 }
 
 func printUsage() {
-	fmt.Println("Usage: ./main [OPTIONS]")
+	fmt.Println("Usage: nojunk [OPTIONS]")
 	fmt.Println("A program to filter URLs based on a blacklist from a YAML configuration file.")
 	fmt.Println("Author : sudomode | LinkedIn : https://www.linkedin.com/in/0xsudomode ")
 	fmt.Println("")
